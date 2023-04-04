@@ -6,4 +6,6 @@ int mul(int a, int b);
 void print_numbers(void);
 void puts2(char *str);
 char *leet(char *);
+void reverse_array(int *a, int n);
+void print_diagonal(int n);
 #endif
